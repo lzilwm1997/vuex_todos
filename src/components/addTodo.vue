@@ -24,7 +24,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped lang="scss">
+<style lang="scss">
 .addInp {
   margin: 10px;
   box-sizing: border-box;
@@ -40,6 +40,7 @@ export default {
     // border-radius: 25px;
     padding-left: 20px;
     margin-right: 10px;
+    font-size: 18px;
   }
   button{
     width: 25%;
